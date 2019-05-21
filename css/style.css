@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+html {
+
+	scroll-behavior: smooth;
+}
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 5px;
+  padding-bottom: 0px;
+  margin-bottom: none;
+
+}
+
+.booknow {
+
+	margin:0;
+	padding:0;
+	float: right;
+}
+
+a.navbar-brand {
+
+	padding-right:  0px !important;
+	padding-left:  100px !important;
+	color: #000000 !important;
+	
+}
+
+ul {
+	color: #ffffff !important;
+
+}
+
+
+.navbar {
+
+	padding-top: 25px !important;
+	padding-bottom: 25px !important;
+}
+
+.navbar-brand {
+
+ 	color: #ffffff !important;
+ 	padding-right: 50px !important;
+ 	padding-left: 50px !important;
+}
+
+.navbar ul li a {
+	color: #ffffff !important;
+}
+
+.navbar ul li {
+	padding-right: 60px;
+	padding-left: 60px;
+	color: #ffffff !important;
+}
